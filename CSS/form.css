@@ -1,0 +1,37 @@
+*{box-sizing: border-box;}
+
+body{
+    width: 960px;
+    margin: auto;
+    height:max-content;
+
+    
+}
+main{
+    line-height: 1.5;
+    font:  4em sans-serif;
+}
+header {
+
+    text-align: justify;
+}
+h1{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+main h3 {
+
+    font-weight: lighter;
+    font-size: large;
+}
+
+div{
+
+    background-color: lightgray;
+    display: inline-flex;
+
+}
+img{
+    display: block;
+}
