@@ -9,11 +9,11 @@ body{
 }
 main{
     line-height: 1.5;
-    font:  4em sans-serif;
+    text-align: center;
 }
 header {
 
-    text-align: justify;
+    text-align: center;
 }
 h1{
     font-weight: bolder;
@@ -30,8 +30,16 @@ div{
 
     background-color: lightgray;
     display: inline-flex;
+    
 
 }
 img{
     display: block;
+}
+form select{
+    width: 150px;
+}
+
+form ul {
+    text-align: justify;
 }
