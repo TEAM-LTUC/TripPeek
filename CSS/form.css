@@ -9,11 +9,12 @@ body{
 }
 main{
     line-height: 1.5;
-    font:  4em sans-serif;
+    
 }
 header {
 
-    text-align: justify;
+    text-align: center;
+
 }
 h1{
     font-weight: bolder;
